@@ -16,7 +16,7 @@ module.exports = {
 
 Similarly the keys for the Tumblr upload can be obtained at [Tumblr Developers](https://www.tumblr.com/developers). Again they need to be added in the file
 
-__tumblr_congfig.js__
+__tumblr_config.js__
 
 ```js
 module.exports = {
